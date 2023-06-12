@@ -1,2 +1,3 @@
 #!/bin/bash
-echo -e ""(Ôo)'"
+# Display the confused smiley
+echo -e "(Ôo)'"
